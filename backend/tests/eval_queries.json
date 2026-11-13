@@ -1,0 +1,42 @@
+[
+  {"id": "q1", "query": "interleukin-6 inflammation cytokines", "type": "short"},
+  {"id": "q2", "query": "PD-1 PD-L1 immune checkpoint blockade tumors", "type": "short"},
+  {"id": "q3", "query": "hippocampal long-term potentiation NMDA AMPA", "type": "short"},
+  {"id": "q4", "query": "C-reactive protein cardiovascular risk obesity", "type": "short"},
+  {"id": "q5", "query": "brain-derived neurotrophic factor BDNF depression", "type": "short"},
+  {"id": "q6", "query": "tumor microenvironment regulatory T cells myeloid", "type": "short"},
+  {"id": "q7", "query": "insulin signaling metabolic syndrome TNF-alpha", "type": "short"},
+  {"id": "q8", "query": "microsatellite instability cancer immunotherapy biomarkers", "type": "short"},
+  {"id": "q9", "query": "synaptic plasticity learning memory consolidation", "type": "short"},
+  {"id": "q10", "query": "endothelial function inflammatory biomarkers diabetes", "type": "short"},
+  {
+    "id": "q11",
+    "query": "Chronic low-grade inflammation is characterized by elevated circulating levels of pro-inflammatory cytokines such as interleukin-6 (IL-6), tumor necrosis factor-alpha (TNF-α), and C-reactive protein (CRP).",
+    "type": "paste"
+  },
+  {
+    "id": "q12",
+    "query": "Immune checkpoint blockade targeting PD-1/PD-L1 pathways can restore T-cell mediated antitumor responses in several solid tumors.",
+    "type": "paste"
+  },
+  {
+    "id": "q13",
+    "query": "Long-term potentiation (LTP) at hippocampal synapses depends on NMDA receptor activation, calcium influx, and subsequent AMPA receptor trafficking.",
+    "type": "paste"
+  },
+  {
+    "id": "q14",
+    "query": "Predictive biomarkers for checkpoint inhibitors include tumor mutational burden and the composition of the tumor microenvironment.",
+    "type": "paste"
+  },
+  {
+    "id": "q15",
+    "query": "Disruptions in synaptic plasticity are studied extensively in models of depression and neurodegenerative disease involving BDNF.",
+    "type": "paste"
+  },
+  {"id": "q16", "query": "apoptosis caspase mitochondrial pathway cancer", "type": "short"},
+  {"id": "q17", "query": "gut microbiome short-chain fatty acids immunity", "type": "short"},
+  {"id": "q18", "query": "CRISPR Cas9 gene editing off-target effects", "type": "short"},
+  {"id": "q19", "query": "Alzheimer amyloid tau neuroinflammation", "type": "short"},
+  {"id": "q20", "query": "antibiotic resistance beta-lactamase MRSA", "type": "short"}
+]

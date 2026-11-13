@@ -1,0 +1,8 @@
+backend 
+conda activate dumbitdown
+cd C:\Users\Shreyas\Desktop\DumbItDown\backend
+python backend_retriever.py --mode server
+frontend
+conda activate dumbitdown
+cd C:\Users\Shreyas\Desktop\DumbItDown\frontend
+python -m http.server 800
